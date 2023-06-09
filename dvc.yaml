@@ -1,0 +1,14 @@
+artifacts:
+  countvect-linreg:
+    path: models/linreg.pkl
+    type: model
+    desc: 'Count vectorizer + linear regression'
+    labels:
+      - linreg
+      - countvect
+    meta:
+      framework: pytorch
+metrics:
+  - metrics.json
+params:
+  - params.yaml

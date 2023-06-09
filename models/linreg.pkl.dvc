@@ -1,0 +1,4 @@
+outs:
+- md5: 3aa95e55270ac36a57ba00844fa999e0
+  size: 660
+  path: linreg.pkl
